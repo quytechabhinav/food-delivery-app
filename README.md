@@ -1,4 +1,3 @@
-Certainly! Below is a template for a README.md file for a food delivery app created using React, Node.js, and MySQL. You can customize it with specific details about your project.
 
 ```markdown
 # Food Delivery App
